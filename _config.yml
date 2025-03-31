@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuxuan Tian / Site Title"
+title                    : "Yuxuan Tian"
 title_separator          : "-"
 name                     : &name "Yuxuan Tian"
 description              : &description "personal description"
